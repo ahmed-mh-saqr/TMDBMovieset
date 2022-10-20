@@ -12,7 +12,7 @@ a TMDB Movie Dataset Analysis
 - Which genres are most popular from year to year?
 - what's the margin between revenue and profit and which movies are more susccfull than the others.
 
-## And also we will check to see What kinds of properties are associated with movies that have high revenues?
+- What kinds of properties are associated with movies that have high revenues?
 - What is the average budget of succesful movies?
 - What is the average revenue of succesful movies?
 - What is the average runtime of succesful movies?
